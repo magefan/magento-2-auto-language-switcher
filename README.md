@@ -74,6 +74,7 @@ Auto Language Switcher extension is created in a way to not cause issues and not
   * [Magento 2 Auto Currency Switcher Extension](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country)
   * [Magento 2 GeoIP Switcher Extension](https://magefan.com/magento-2-geoip-switcher-extension)
   * [Magento 2 YouTube Widget Extension](https://magefan.com/magento2-youtube-extension)
+  * [Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor)
   * [Magento 2 Product Widget Advanced Extension](https://magefan.com/magento-2-product-widget)
   * [Magento 2 Conflict Detector Extension](https://magefan.com/magento2-conflict-detector)
   * [Magento 2 Lazy Load Extension](https://magefan.com/magento-2-image-lazy-load-extension)
