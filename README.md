@@ -66,7 +66,7 @@ Auto Language Switcher extension is created in a way to not cause issues and not
 
 [This short video](https://www.youtube.com/watch?v=vSTIsh2I-oQ) will help you understand how the Magento 2 Language Switcher works and learn more about its configuration.
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
