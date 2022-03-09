@@ -1,10 +1,12 @@
 # Magento 2 Auto Language Switcher Extension
+<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/m/a/magento-2-auto-language-switcher-extension.webp">
 
 [Magento 2 Language Switcher](https://magefan.com/magento-2-auto-language-switcher) is the extension that helps you to automate  the process of store switching on your Magento website. The extension automatically directs customers to the store view in their local language based on their location or browser language so that they don't have to do this manually.
 
 
-<a href="https://magefan.com/magento-2-auto-language-switcher"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+<a href="https://magefan.com/magento-2-auto-language-switcher"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 
 ## Benefits
 
