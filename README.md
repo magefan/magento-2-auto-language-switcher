@@ -9,7 +9,7 @@
 [Magento 2 Language Switcher](https://magefan.com/magento-2-auto-language-switcher) is the extension that helps you to automate  the process of store switching on your Magento website. The extension automatically directs customers to the store view in their local language based on their location or browser language so that they don't have to do this manually.
 
 
-<a href="https://magefan.com/magento-2-auto-language-switcher"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-auto-language-switcher"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-auto-language-switcher#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Benefits
 
