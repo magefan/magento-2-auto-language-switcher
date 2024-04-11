@@ -1,4 +1,4 @@
-# Magento 2 Auto Language Switcher Extension
+# [Magento 2 Auto Language Switcher](https://magefan.com/magento-2-auto-language-switcher) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -6,10 +6,12 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/m/a/magento-2-auto-language-switcher-extension.webp">
 
-[Magento 2 Language Switcher](https://magefan.com/magento-2-auto-language-switcher) is the extension that helps you to automate  the process of store switching on your Magento website. The extension automatically directs customers to the store view in their local language based on their location or browser language so that they don't have to do this manually.
-
+[Magento 2 Auto Language Switcher](https://magefan.com/magento-2-auto-language-switcher) is the extension that helps you to automate  the process of store switching on your Magento website. The extension automatically directs customers to the store view in their local language based on their location or browser language so that they don't have to do this manually.
 
 <a href="https://magefan.com/magento-2-auto-language-switcher"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-auto-language-switcher#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
 
@@ -17,14 +19,13 @@
 * Better Customer Engagement
 * Increased Time on Website
 
-
 ## Features
 ### Store View Redirect Based on Customer Browser Language
 
 One of the options Auto Language Switcher offers you to choose from is the option to define what store view to direct customers to based on their browser language.
 
 <p align="center">
-  <img width="800" height="500" src="https://cm.magefan.com/catalog/product/a/u/auto-language-switcher-7-min.jpg">
+  <img src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/geoip-redirection-based-on-browser-language.webp">
 </p>
 
 ### Store View Switcher Based on Visitor Geographic Location
@@ -32,7 +33,7 @@ One of the options Auto Language Switcher offers you to choose from is the optio
 Language Switcher extension uses several GeoIP Databases in order to detect customers location as precisely as possible and then correspondingly display the store view based on their geographical location.
 
 <p align="center">
-  <img width="800" height="500" src="https://cm.magefan.com/catalog/product/a/u/auto-language-switcher-4-min.jpg">
+  <img src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/geoip-redirection-based-on-ip.webp">
 </p>
 
 ### Robots Restrictions
@@ -40,16 +41,12 @@ Language Switcher extension uses several GeoIP Databases in order to detect cust
 Search crawlers regularly analyze your website for some new updates and changes to provide search engine users with only the most updated results. You can easily disable the language switcher from those crawlers if you want to avoid the SEO issues.
 
 <p align="center">
-  <img width="800" height="500" src="https://cm.magefan.com/catalog/product/a/u/auto-language-switcher-2-min.jpg">
+  <img width="800" height="500" src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/robots-restrictions.webp">
 </p> 
 
 ### Integration With Custom Themes
 
 Auto Language Switcher extension is created in a way to not cause issues and not conflict with your customs theme so that you can continue to provide an awesome experience for your customers.
-
-<p align="center">
-  <img width="800" height="500" src="https://cm.magefan.com/catalog/product/a/u/auto-language-switcher-1-min.jpg">
-</p>
 
 ## Documentation
 
@@ -118,6 +115,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-auto-language-switcher/issues).
 
 ## Need More Features?
 Please contact us to get a quote
