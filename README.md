@@ -22,9 +22,14 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
 
-* Improved Customer Experience
-* Better Customer Engagement
-* Increased Time on Website
+* [Change Store Views Based on Visitor’s Location](https://github.com/magefan/magento-2-auto-language-switcher#change-store-views-based-on-visitors-location)
+* [Change Store Views Based Browser Language](https://github.com/magefan/magento-2-auto-language-switcher#change-store-views-based-browser-language)
+* [Redirect Customers Between Websites](https://github.com/magefan/magento-2-auto-language-switcher#redirect-customers-between-websites)
+* [Display Store Redirect Suggestion Popup](https://github.com/magefan/magento-2-auto-language-switcher#display-store-redirect-suggestion-popup)
+* [Restrict Redirection For Pages, Robots, and IPs](https://github.com/magefan/magento-2-auto-language-switcher#restrict-redirection-for-pages-robots-and-ips)
+* [Test Store Switcher Using Location Simulator](https://github.com/magefan/magento-2-auto-language-switcher#test-store-switcher-using-location-simulator)
+* [Ensure Correct Location Detection](https://github.com/magefan/magento-2-auto-language-switcher#ensure-correct-location-detection)
+* [Get Customers’ Location via GraphQL Endpoints](https://github.com/magefan/magento-2-auto-language-switcher#get-customers-location-via-graphql-endpoints)
 
 ## Features
 ### Change Store Views Based on Visitor’s Location
