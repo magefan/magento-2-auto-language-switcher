@@ -1,17 +1,24 @@
-# [Magento 2 Auto Language Switcher](https://magefan.com/magento-2-auto-language-switcher) by Magefan
-
-<a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
-
-<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+# [Magento 2 Language Switcher](https://magefan.com/magento-2-auto-language-switcher) by Magefan
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/m/a/magento-2-auto-language-switcher-extension.webp">
 
-[Magento 2 Auto Language Switcher](https://magefan.com/magento-2-auto-language-switcher) is the extension that helps you to automate  the process of store switching on your Magento website. The extension automatically directs customers to the store view in their local language based on their location or browser language so that they don't have to do this manually.
+Automatic [Magento 2 Language Switcher](https://magefan.com/magento-2-auto-language-switcher) allows you to redirect customers to a corresponding store view based on their browser language or geographic location. You can switch stores automatically or display a suggestion popup to get a customer’s consent first. 
 
-<a href="https://magefan.com/magento-2-auto-language-switcher"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-auto-language-switcher#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+Elevate the customer experience and make the shopping journey smooth right from the start with the advanced Magento 2 Language Switcher!
 
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
+<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
+<a href="https://magefan.com/magento-2-auto-language-switcher"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1814#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> 
+
+## Useful Links
+  * [User Guide](https://magefan.com/magento-2-auto-language-switcher/documentation)
+  * [Change Log](https://magefan.com/magento-2-auto-language-switcher/change-log)
+  * [FAQs](https://magefan.com/magento-2-auto-language-switcher#pattr-faq)
+
+## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
 ## Benefits
 
@@ -20,49 +27,81 @@
 * Increased Time on Website
 
 ## Features
-### Store View Redirect Based on Customer Browser Language
+### Change Store Views Based on Visitor’s Location
+Providing your content in various languages is one of the key aspects of high customer satisfaction. Yet, having landed in your store, they still have to look for a switcher and change the language manually.
 
-One of the options Auto Language Switcher offers you to choose from is the option to define what store view to direct customers to based on their browser language.
+Thanks to this Magento 2 Language Switcher your customers don’t have to go the extra mile. 
+
+The extension detects their location and automatically redirects them to the corresponding store view. So, they view your store in the familiar language right from the start!
 
 <p align="center">
-  <img src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/geoip-redirection-based-on-browser-language.webp">
+  <img width="853" height="425"  src="https://cm.magefan.com/wysiwyg/products/magento-2-language-switcher.png">
 </p>
 
-### Store View Switcher Based on Visitor Geographic Location
+### Change Store Views Based Browser Language
+At the same time, the Auto Magento 2 Language Switcher can also redirect users based on their browser language. This is specifically useful when a country uses multiple languages.
 
-Language Switcher extension uses several GeoIP Databases in order to detect customers location as precisely as possible and then correspondingly display the store view based on their geographical location.
+Thus, this extension detects the customers' browser language and redirects them to the corresponding store view. This doesn’t take much effort from you but creates an uninterrupted experience for shoppers.
 
 <p align="center">
-  <img src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/geoip-redirection-based-on-ip.webp">
+  <img idth="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-store-switcher-based-on-browser-language.png">
 </p>
 
-### Robots Restrictions
+### Redirect Customers Between Websites
+The Magento 2 Language and Store Switcher allows you to redirect customers not only within one website. It works equally well on multiple websites of your Magento installation.
 
-Search crawlers regularly analyze your website for some new updates and changes to provide search engine users with only the most updated results. You can easily disable the language switcher from those crawlers if you want to avoid the SEO issues.
+Thus, you can easily redirect customers between all your websites to ensure they reach just the right one. No matter where shoppers landed initially, you can still redirect them to the proper store view. 
 
 <p align="center">
-  <img width="800" height="500" src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/robots-restrictions.webp">
+  <img idth="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-website-switcher.png">
 </p> 
 
-### Integration With Custom Themes
+### Display Store Redirect Suggestion Popup
 
-Auto Language Switcher extension is created in a way to not cause issues and not conflict with your customs theme so that you can continue to provide an awesome experience for your customers.
+Automatic redirection is certainly a useful thing. Yet, customers may not always want to change a language and are completely okay with the one they landed on. What do you do in that case?
 
-## Documentation
+The Automatic Magento 2 Language Switcher comes with the suggestion popup option. You can enable it to ask for customers’ consent before redirecting them to a different store view. 
 
-**General**
-* [How to install Magento 2 Language Switcher Extension?](https://magefan.com/blog/magento2-auto-language-switcher-extension-installation)
-* [How to update Magento 2 Language Switcher Extension?](https://magefan.com/blog/update-magefan-auto-language-switcher-extension)
-* [How to uninstall Magento 2 Language Switcher Extension?](https://magefan.com/blog/uninstall-magefan-auto-language-switcher-extension)
+Give your customers a choice and let them view the preferred version of your store.
 
-**Configuration**
-* [How to Configure Magento 2 Auto Language Switcher?](https://magefan.com/blog/configure-magento2-auto-language-switcher)
-* [How to Configure Magento 2 Multi-Language Store?](https://magefan.com/blog/configure-magento-2-multi-language-store)
+<p align="center">
+  <img idth="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-website-switcher.png">
+</p>
 
-**Troubleshooting**
-* [How to Remove Language Switcher in Magento 2?](https://magefan.com/how-to-remove-language-switcher-in-magento-2)
-* [How to Test Magento 2 Auto Language Switcher?](https://magefan.com/blog/testing-magento-2-auto-language-switcher)
-* [Magento 2 Showing Wrong Customer IP. How to Fix This?](https://magefan.com/blog/magento-2-showing-wrong-customer-ip)
+### Restrict Redirection For Pages, Robots, and IPs
+
+Search crawlers regularly analyze your website to submit the latest changes for search engines. Yet, there is no need to switch stores for them. The same goes for specific store pages — it makes sense to disable redirection for some of them.
+
+The Magento 2 Language and Store Switcher allows you to do just that. You can restrict the module for all or specific pages, search crawlers, and IPs. Thus, you avoid SEO inconsistencies and ensure smooth store operation for your team.
+
+<p align="center">
+  <img idth="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-language-switcher-restrictions.png">
+</p>
+
+### Test Store Switcher Using Location Simulator
+Before publishing anything new on your live website, you need to test it first. The Magento 2 Language switcher functionality is not an exception.
+
+This is why, this extension comes with the location simulation. It allows you to simulate a specific country and see how the automatic switching works.
+
+Put yourself in the customers’ shoes and provide the best functionality possible.
+
+<p align="center">
+  <img idth="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-geoip-simulator.png">
+</p>
+
+### Ensure Correct Location Detection
+When redirecting customers automatically, you need to accurately detect their location. Fortunately, the Magento 2 Language and Store Switcher has you covered.
+
+It implements three GeoIP databases for the most accurate location detection. With such an approach, you can rest assured that your customers will be redirected properly.
+
+<p align="center">
+  <img idth="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-geoip-database.png">
+</p>
+
+### Get Customers’ Location via GraphQL Endpoints
+Do you implement the headless storefront and want to redirect customers as well? That’s what you can do with this Magento 2 Language Switcher.
+
+Use GraphQL endpoints to get customer location and redirect them correspondingly. Ensure an uninterrupted multi-language experience for your PWA frontend, too.
 
 ## Video Reference
 
@@ -94,7 +133,7 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://als.demo.magefan.top/admin/admin/">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magento 2 Language Switcher Extension Admin Panel Demo"
             height="220"
           >
