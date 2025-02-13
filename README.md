@@ -70,7 +70,7 @@ The Automatic Magento 2 Language Switcher comes with the suggestion popup option
 Give your customers a choice and let them view the preferred version of your store.
 
 <p align="center">
-  <img idth="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-website-switcher.png">
+  <img idth="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-language-switcher-suggestion-popup.png">
 </p>
 
 ### Restrict Redirection For Pages, Robots, and IPs
